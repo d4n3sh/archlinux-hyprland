@@ -26,6 +26,7 @@ packages=(
   vivaldi
   google-chrome-beta
   discord
+  fastfetch
 )
 
 for pkg in "${packages[@]}"; do
