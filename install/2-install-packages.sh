@@ -27,6 +27,7 @@ packages=(
   google-chrome-beta
   discord
   fastfetch
+  power-profiles-daemon
 )
 
 for pkg in "${packages[@]}"; do
