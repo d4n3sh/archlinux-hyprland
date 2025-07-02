@@ -28,6 +28,7 @@ packages=(
   discord
   fastfetch
   power-profiles-daemon
+  fzf
 )
 
 for pkg in "${packages[@]}"; do
