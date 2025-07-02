@@ -20,6 +20,7 @@ packages=(
   ncdu
   btop
   zsh
+  zsh-completions
   nvtop
   waybar
   vivaldi
